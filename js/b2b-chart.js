@@ -159,8 +159,8 @@ d3.csv("csv/b2b.csv", function (err, data){
     .xAxis().tickFormat(function(v) { return ""; });
     
     blendChart
-    .width(200)
-    .height(200)
+    .width(175)
+    .height(175)
     .dimension(blendDim)
     .group(blendGroup)
     .on('pretransition', function(chart) {
@@ -181,8 +181,8 @@ d3.csv("csv/b2b.csv", function (err, data){
     // });
     
     roastLevelChart
-    .width(200)
-    .height(200)
+    .width(175)
+    .height(175)
     .dimension(roastLevelDim)
     .group(roastLevelGroup)
     .on('pretransition', function(chart) {
@@ -192,8 +192,8 @@ d3.csv("csv/b2b.csv", function (err, data){
     });
     
     seasonalChart
-    .width(200)
-    .height(200)
+    .width(175)
+    .height(175)
     .dimension(seasonalDim)
     .group(seasonalGroup)
     .on('pretransition', function(chart) {
