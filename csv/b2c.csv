@@ -1,0 +1,666 @@
+year,month,origin,source,blend,roast_level,type,sales,unit_price,monthly_sales
+2015,1,Brazil,In Store,Single,dark,Seasonal,12.0,18.536666666666665,303.75
+2015,1,Brazil,Online,Single,dark,Evergreen,291.75,24.404404404404385,303.75
+2015,1,Colombia,Online,Single,dark,Evergreen,187.5,20.0,187.5
+2015,1,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,9.0,17.575873015873018,101.25
+2015,1,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,92.25,20.0,101.25
+2015,1,Ethiopia,In Store,Single,medium,Seasonal,6.0,22.093333333333334,6.0
+2015,1,Guatemala,In Store,Single,medium,Seasonal,6.0,22.168000000000003,159.75
+2015,1,Guatemala,Online,Single,medium,Seasonal,153.75,22.797687861271676,159.75
+2015,1,Haiti,In Store,Single,dark,Seasonal,0.75,18.36,219.75
+2015,1,Haiti,Online,Single,dark,Seasonal,219.0,20.0,219.75
+2015,1,Kenya,In Store,Single,medium,Seasonal,12.75,21.501619047619045,210.75
+2015,1,Kenya,Online,Single,medium,Seasonal,198.0,24.0,210.75
+2015,1,Mexico,In Store,Single,medium,Seasonal,10.5,17.19407407407407,10.5
+2015,1,Panama,Online,Single,light,Seasonal,140.25,24.0,140.25
+2015,1,Zambia,In Store,Single,dark,Seasonal,7.5,13.821481481481479,610.5
+2015,1,Zambia,Online,Single,dark,Seasonal,603.0,18.62439961575415,610.5
+2015,2,Brazil,In Store,Single,dark,Seasonal,12.75,15.877142857142857,310.5
+2015,2,Brazil,Online,Single,dark,Evergreen,297.75,27.973102785782906,310.5
+2015,2,Colombia,Online,Single,dark,Evergreen,195.0,20.0,195.0
+2015,2,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,14.25,18.496666666666663,105.75
+2015,2,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,91.5,20.0,105.75
+2015,2,Guatemala,In Store,Single,medium,Seasonal,9.0,20.501851851851853,195.75
+2015,2,Guatemala,Online,Single,medium,Seasonal,186.75,20.0,195.75
+2015,2,Haiti,In Store,Single,dark,Seasonal,21.75,16.368933333333334,234.75
+2015,2,Haiti,Online,Single,dark,Seasonal,213.0,20.0,234.75
+2015,2,Kenya,In Store,Single,medium,Seasonal,12.0,21.347901234567903,161.25
+2015,2,Kenya,Online,Single,medium,Seasonal,149.25,24.0,161.25
+2015,2,Panama,Online,Single,light,Seasonal,178.5,24.0,178.5
+2015,2,Zambia,In Store,Single,dark,Seasonal,11.25,17.03230769230769,411.75
+2015,2,Zambia,Online,Single,dark,Seasonal,400.5,18.995670995670977,411.75
+2015,3,Brazil,In Store,Single,dark,Seasonal,20.25,16.844675324675325,210.75
+2015,3,Brazil,Online,Single,dark,Evergreen,190.5,24.223227752639517,210.75
+2015,3,Colombia,Online,Single,dark,Evergreen,107.25,20.0,107.25
+2015,3,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,21.75,12.96888888888889,94.5
+2015,3,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,72.75,20.0,94.5
+2015,3,Ethiopia,In Store,Single,medium,Evergreen,243.0,14.964904847243552,581.25
+2015,3,Ethiopia,In Store,Single,medium,Seasonal,8.25,15.506172839506174,581.25
+2015,3,Ethiopia,Online,Single,medium,Evergreen,330.0,20.0,581.25
+2015,3,Guatemala,In Store,Single,medium,Seasonal,1.5,18.36,15.0
+2015,3,Guatemala,Online,Single,medium,Seasonal,13.5,20.0,15.0
+2015,3,Haiti,Online,Single,dark,Seasonal,116.25,20.0,116.25
+2015,3,Kenya,In Store,Single,medium,Seasonal,12.0,18.785833333333333,12.0
+2015,3,Panama,Online,Single,light,Seasonal,211.0,66.46715328467154,211.0
+2015,3,Zambia,In Store,Single,dark,Seasonal,18.0,14.766814814814813,320.25
+2015,3,Zambia,Online,Single,dark,Seasonal,302.25,18.971428571428532,320.25
+2015,4,Brazil,In Store,Single,dark,Seasonal,27.75,17.014543209876546,261.0
+2015,4,Brazil,Online,Single,dark,Evergreen,233.25,24.37580437580437,261.0
+2015,4,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,26.25,17.43432098765432,131.25
+2015,4,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,105.0,20.0,131.25
+2015,4,Ethiopia,In Store,Single,medium,Evergreen,343.5,16.710630906130902,536.25
+2015,4,Ethiopia,Online,Single,medium,Evergreen,192.75,20.0,536.25
+2015,4,Haiti,Online,Single,dark,Seasonal,108.0,20.0,108.0
+2015,4,Kenya,In Store,Single,medium,Seasonal,3.75,20.225,3.75
+2015,4,Panama,In Store,Single,light,Seasonal,1.5,35.666666666666664,202.25
+2015,4,Panama,Online,Single,light,Seasonal,200.75,60.208695652173915,202.25
+2015,4,Zambia,In Store,Single,dark,Seasonal,18.75,16.308366013071893,345.75
+2015,4,Zambia,Online,Single,dark,Seasonal,327.0,18.959349593495904,345.75
+2015,5,Brazil,In Store,Single,dark,Evergreen,1.5,20.0,249.0
+2015,5,Brazil,In Store,Single,dark,Seasonal,21.75,16.006481481481483,249.0
+2015,5,Brazil,Online,Single,dark,Evergreen,225.75,25.73333333333332,249.0
+2015,5,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,24.0,19.284795321637425,118.5
+2015,5,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,94.5,20.0,118.5
+2015,5,Ethiopia,In Store,Single,medium,Evergreen,282.75,16.58082403349887,575.25
+2015,5,Ethiopia,Online,Single,medium,Evergreen,209.25,20.0,575.25
+2015,5,Ethiopia,Online,Single,medium,Seasonal,83.25,24.0,575.25
+2015,5,Haiti,In Store,Single,dark,Seasonal,0.75,18.453333333333333,120.0
+2015,5,Haiti,Online,Single,dark,Seasonal,119.25,20.0,120.0
+2015,5,Panama,In Store,Single,light,Seasonal,7.75,29.316363636363636,188.0
+2015,5,Panama,Online,Single,light,Seasonal,180.25,42.84878048780488,188.0
+2015,5,Yemen,Online,Single,medium,Seasonal,115.5,45.33333333333328,115.5
+2015,5,Zambia,In Store,Single,dark,Seasonal,12.0,19.252307692307692,303.75
+2015,5,Zambia,Online,Single,dark,Seasonal,291.75,18.930091185410312,303.75
+2015,6,Brazil,In Store,Single,dark,Seasonal,9.0,17.19511111111111,145.5
+2015,6,Brazil,Online,Single,dark,Evergreen,136.5,20.0,145.5
+2015,6,Colombia,In Store,Single,dark,Evergreen,57.0,20.0,254.25
+2015,6,Colombia,Online,Single,dark,Evergreen,197.25,24.0,254.25
+2015,6,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,143.25,19.93500328731098,210.0
+2015,6,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,66.75,20.0,210.0
+2015,6,Ethiopia,In Store,Single,medium,Evergreen,307.5,18.525301351271604,823.5
+2015,6,Ethiopia,In Store,Single,medium,Seasonal,215.25,20.5232057797708,823.5
+2015,6,Ethiopia,Online,Single,medium,Evergreen,114.0,20.0,823.5
+2015,6,Ethiopia,Online,Single,medium,Seasonal,186.75,24.0,823.5
+2015,6,Haiti,Online,Single,dark,Seasonal,67.5,20.0,67.5
+2015,6,"Kenya, Colombia",Online,Blend,medium,Evergreen,33.0,24.0,33.0
+2015,6,Panama,In Store,Single,light,Seasonal,72.5,32.995604395604396,190.0
+2015,6,Panama,Online,Single,light,Seasonal,117.5,50.666666666666664,190.0
+2015,6,Yemen,In Store,Single,medium,Seasonal,44.25,42.6086111111111,114.75
+2015,6,Yemen,Online,Single,medium,Seasonal,70.5,45.33333333333338,114.75
+2015,6,Zambia,In Store,Single,dark,Seasonal,75.0,17.41686977299879,225.0
+2015,6,Zambia,Online,Single,dark,Seasonal,150.0,18.337448559670797,225.0
+2015,7,Brazil,Online,Single,dark,Evergreen,136.5,20.0,136.5
+2015,7,Colombia,In Store,Single,dark,Evergreen,327.0,23.924170616113745,483.0
+2015,7,Colombia,Online,Single,dark,Evergreen,156.0,24.0,483.0
+2015,7,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,345.75,19.988366508688785,432.0
+2015,7,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,86.25,20.0,432.0
+2015,7,Ethiopia,In Store,Single,medium,Evergreen,287.25,19.796115832546427,836.25
+2015,7,Ethiopia,In Store,Single,medium,Seasonal,303.75,23.817090002931693,836.25
+2015,7,Ethiopia,Online,Single,medium,Evergreen,121.5,20.0,836.25
+2015,7,Ethiopia,Online,Single,medium,Seasonal,123.75,24.0,836.25
+2015,7,Haiti,Online,Single,dark,Seasonal,196.5,20.0,196.5
+2015,7,"Kenya, Colombia",Online,Blend,medium,Evergreen,66.75,24.0,66.75
+2015,7,Panama,In Store,Single,light,Seasonal,151.25,34.93069306930693,252.25
+2015,7,Panama,Online,Single,light,Seasonal,101.0,50.86725663716814,252.25
+2015,7,Yemen,In Store,Single,medium,Seasonal,66.75,45.333333333333385,120.0
+2015,7,Yemen,Online,Single,medium,Seasonal,53.25,45.33333333333334,120.0
+2015,7,Zambia,In Store,Single,dark,Seasonal,13.5,17.333333333333336,78.75
+2015,7,Zambia,Online,Single,dark,Seasonal,65.25,17.333333333333332,78.75
+2015,8,Brazil,Online,Single,dark,Evergreen,152.25,20.0,152.25
+2015,8,Colombia,In Store,Single,dark,Evergreen,346.5,24.0,543.75
+2015,8,Colombia,Online,Single,dark,Evergreen,197.25,24.0,543.75
+2015,8,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,370.5,20.0,481.5
+2015,8,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,111.0,20.0,481.5
+2015,8,Ethiopia,In Store,Single,medium,Evergreen,311.25,20.0,946.5
+2015,8,Ethiopia,In Store,Single,medium,Seasonal,365.25,24.0,946.5
+2015,8,Ethiopia,Online,Single,medium,Evergreen,175.5,20.0,946.5
+2015,8,Ethiopia,Online,Single,medium,Seasonal,94.5,24.0,946.5
+2015,8,Haiti,In Store,Single,dark,Seasonal,249.0,20.0,432.0
+2015,8,Haiti,Online,Single,dark,Seasonal,183.0,20.0,432.0
+2015,8,"Kenya, Colombia",Online,Blend,medium,Evergreen,64.5,24.0,64.5
+2015,8,Mexico,In Store,Single,medium,Seasonal,105.75,17.333333333333332,453.0
+2015,8,Mexico,Online,Single,medium,Seasonal,347.25,18.371615312791732,453.0
+2015,8,Panama,In Store,Single,light,Seasonal,177.25,46.01709401709402,277.0
+2015,8,Panama,Online,Single,light,Seasonal,99.75,50.654205607476634,277.0
+2015,8,Yemen,In Store,Single,medium,Seasonal,72.0,45.33333333333338,116.25
+2015,8,Yemen,Online,Single,medium,Seasonal,44.25,39.05882352941175,116.25
+2015,9,Brazil,Online,Single,dark,Evergreen,160.5,20.0,161.25
+2015,9,Brazil,Online,Single,dark,Seasonal,0.75,20.0,161.25
+2015,9,Colombia,In Store,Single,dark,Evergreen,329.25,24.0,521.25
+2015,9,Colombia,Online,Single,dark,Evergreen,192.0,24.0,521.25
+2015,9,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,337.5,20.0,462.75
+2015,9,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,125.25,20.0,462.75
+2015,9,Ethiopia,In Store,Single,medium,Evergreen,239.25,20.0,837.75
+2015,9,Ethiopia,In Store,Single,medium,Seasonal,326.25,24.0,837.75
+2015,9,Ethiopia,Online,Single,medium,Evergreen,178.5,20.0,837.75
+2015,9,Ethiopia,Online,Single,medium,Seasonal,93.75,24.0,837.75
+2015,9,Haiti,In Store,Single,dark,Seasonal,242.25,20.0,445.5
+2015,9,Haiti,Online,Single,dark,Seasonal,203.25,20.0,445.5
+2015,9,"Kenya, Colombia",Online,Blend,medium,Evergreen,57.75,24.0,57.75
+2015,9,Mexico,In Store,Single,medium,Seasonal,403.5,18.535353535353543,702.0
+2015,9,Mexico,Online,Single,medium,Seasonal,298.5,18.81481481481478,702.0
+2015,9,Panama,In Store,Single,light,Seasonal,151.25,42.94117647058823,278.25
+2015,9,Panama,Online,Single,light,Seasonal,127.0,47.653333333333336,278.25
+2015,9,Yemen,In Store,Single,medium,Seasonal,26.25,32.7843137254902,103.5
+2015,9,Yemen,Online,Single,medium,Seasonal,77.25,32.0,103.5
+2015,9,Zambia,Online,Single,dark,Seasonal,42.0,20.0,42.0
+2015,10,Brazil,Online,Single,dark,Evergreen,0.75,20.0,146.25
+2015,10,Brazil,Online,Single,dark,Seasonal,145.5,20.0,146.25
+2015,10,Colombia,In Store,Single,dark,Evergreen,478.5,24.0,628.5
+2015,10,Colombia,Online,Single,dark,Evergreen,150.0,24.0,628.5
+2015,10,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,407.25,20.0,545.25
+2015,10,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,138.0,20.0,545.25
+2015,10,Ethiopia,In Store,Single,medium,Evergreen,317.25,20.0,1053.75
+2015,10,Ethiopia,In Store,Single,medium,Seasonal,410.25,24.0,1053.75
+2015,10,Ethiopia,Online,Single,medium,Evergreen,181.5,20.0,1053.75
+2015,10,Ethiopia,Online,Single,medium,Seasonal,144.75,24.0,1053.75
+2015,10,Haiti,In Store,Single,dark,Seasonal,313.5,20.0,501.0
+2015,10,Haiti,Online,Single,dark,Seasonal,187.5,20.0,501.0
+2015,10,"Kenya, Colombia",Online,Blend,medium,Evergreen,49.5,24.0,49.5
+2015,10,Mexico,In Store,Single,medium,Seasonal,558.75,18.787878787878856,758.25
+2015,10,Mexico,Online,Single,medium,Seasonal,199.5,18.655367231638436,758.25
+2015,10,Panama,In Store,Single,light,Seasonal,144.25,29.11111111111111,249.75
+2015,10,Panama,Online,Single,light,Seasonal,105.5,42.41860465116279,249.75
+2015,10,Papua New Guinea,Online,Single,light,Seasonal,214.5,20.0,214.5
+2015,10,Yemen,Online,Single,medium,Seasonal,76.5,32.0,76.5
+2015,10,Zambia,Online,Single,dark,Seasonal,552.0,20.0,552.0
+2015,11,Brazil,Online,Single,dark,Seasonal,170.25,20.0,170.25
+2015,11,Colombia,In Store,Single,dark,Evergreen,531.0,24.0,733.5
+2015,11,Colombia,Online,Single,dark,Evergreen,202.5,24.0,733.5
+2015,11,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,476.25,20.0,609.75
+2015,11,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,133.5,20.0,609.75
+2015,11,Ethiopia,In Store,Single,medium,Evergreen,351.75,20.0,1140.0
+2015,11,Ethiopia,In Store,Single,medium,Seasonal,422.25,24.0,1140.0
+2015,11,Ethiopia,Online,Single,medium,Evergreen,226.5,20.0,1140.0
+2015,11,Ethiopia,Online,Single,medium,Seasonal,139.5,24.0,1140.0
+2015,11,Haiti,In Store,Single,dark,Seasonal,93.0,20.0,333.75
+2015,11,Haiti,Online,Single,dark,Seasonal,240.75,20.0,333.75
+2015,11,Kenya,Online,Single,medium,Seasonal,160.5,24.0,160.5
+2015,11,"Kenya, Colombia",Online,Blend,medium,Evergreen,39.75,24.0,39.75
+2015,11,Mexico,In Store,Single,medium,Seasonal,478.5,19.036559139784988,657.75
+2015,11,Mexico,Online,Single,medium,Seasonal,179.25,19.14920634920636,657.75
+2015,11,Panama,In Store,Single,light,Seasonal,143.75,34.26086956521739,640.0
+2015,11,Panama,Online,Single,light,Seasonal,496.25,47.61846153846154,640.0
+2015,11,Papua New Guinea,In Store,Single,light,Seasonal,216.75,20.0,574.5
+2015,11,Papua New Guinea,Online,Single,light,Seasonal,357.75,20.0,574.5
+2015,11,Sumatra,Online,Single,dark,Seasonal,96.75,20.0,96.75
+2015,11,Yemen,Online,Single,medium,Seasonal,5.25,32.0,5.25
+2015,11,Zambia,Online,Single,dark,Seasonal,211.5,20.0,211.5
+2015,12,Brazil,Online,Single,dark,Evergreen,3.75,106.4,169.5
+2015,12,Brazil,Online,Single,dark,Seasonal,165.75,20.0,169.5
+2015,12,Colombia,In Store,Single,dark,Evergreen,765.75,24.0,988.5
+2015,12,Colombia,Online,Single,dark,Evergreen,222.75,24.598425196850393,988.5
+2015,12,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,775.5,20.0,933.75
+2015,12,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,158.25,20.314606741573034,933.75
+2015,12,Ethiopia,In Store,Single,medium,Evergreen,510.75,20.0,1541.25
+2015,12,Ethiopia,In Store,Single,medium,Seasonal,643.5,24.0,1541.25
+2015,12,Ethiopia,Online,Single,medium,Evergreen,236.25,21.554716981132074,1541.25
+2015,12,Ethiopia,Online,Single,medium,Seasonal,150.75,24.0,1541.25
+2015,12,Haiti,Online,Single,dark,Evergreen,0.75,68.0,133.5
+2015,12,Haiti,Online,Single,dark,Seasonal,132.75,20.0,133.5
+2015,12,Kenya,In Store,Single,medium,Seasonal,384.0,24.0,540.0
+2015,12,Kenya,Online,Single,medium,Seasonal,156.0,24.0,540.0
+2015,12,"Kenya, Colombia",Online,Blend,medium,Evergreen,13.5,24.0,13.5
+2015,12,Mexico,In Store,Single,medium,Seasonal,60.75,19.962962962962962,187.5
+2015,12,Mexico,Online,Single,medium,Seasonal,126.75,20.0,187.5
+2015,12,Panama,In Store,Single,light,Seasonal,83.75,67.28767123287672,260.0
+2015,12,Panama,Online,Single,light,Seasonal,176.25,46.924369747899156,260.0
+2015,12,Papua New Guinea,In Store,Single,light,Seasonal,6.75,20.0,226.5
+2015,12,Papua New Guinea,Online,Single,light,Seasonal,219.75,20.0,226.5
+2015,12,Rwanda,Online,Single,light,Seasonal,89.25,24.0,89.25
+2015,12,Sumatra,In Store,Single,dark,Seasonal,468.75,20.0,729.0
+2015,12,Sumatra,Online,Single,dark,Seasonal,260.25,20.0,729.0
+2016,1,Brazil,Online,Single,dark,Evergreen,2.25,0.0,148.5
+2016,1,Brazil,Online,Single,dark,Seasonal,146.25,20.0,148.5
+2016,1,Colombia,In Store,Single,dark,Evergreen,483.0,24.0,677.25
+2016,1,Colombia,Online,Single,dark,Evergreen,194.25,24.579185520361992,677.25
+2016,1,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,492.0,20.0,630.0
+2016,1,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,138.0,19.87730061349693,630.0
+2016,1,Ethiopia,In Store,Single,medium,Evergreen,411.75,20.0,1119.75
+2016,1,Ethiopia,In Store,Single,medium,Seasonal,414.0,24.0,1119.75
+2016,1,Ethiopia,Online,Single,medium,Evergreen,204.0,19.665271966527197,1119.75
+2016,1,Ethiopia,Online,Single,medium,Seasonal,90.0,24.0,1119.75
+2016,1,Haiti,Online,Single,dark,Evergreen,0.75,0.0,64.5
+2016,1,Haiti,Online,Single,dark,Seasonal,63.75,20.0,64.5
+2016,1,Kenya,In Store,Single,medium,Seasonal,119.25,24.0,186.0
+2016,1,Kenya,Online,Single,medium,Seasonal,66.75,24.0,186.0
+2016,1,"Kenya, Colombia",Online,Blend,medium,Evergreen,10.5,24.0,10.5
+2016,1,Mexico,In Store,Single,medium,Seasonal,395.25,20.0,483.75
+2016,1,Mexico,Online,Single,medium,Seasonal,88.5,20.0,483.75
+2016,1,Panama,In Store,Single,light,Seasonal,68.5,68.0,195.0
+2016,1,Panama,Online,Single,light,Seasonal,126.5,68.0,195.0
+2016,1,Papua New Guinea,Online,Single,light,Seasonal,137.25,20.0,137.25
+2016,1,Rwanda,In Store,Single,light,Seasonal,12.0,24.0,77.25
+2016,1,Rwanda,Online,Single,light,Seasonal,65.25,24.0,77.25
+2016,1,Sumatra,In Store,Single,dark,Seasonal,484.5,20.0,628.5
+2016,1,Sumatra,Online,Single,dark,Seasonal,144.0,20.0,628.5
+2016,2,Brazil,Online,Single,dark,Evergreen,2.25,0.0,358.5
+2016,2,Brazil,Online,Single,dark,Seasonal,356.25,20.0,358.5
+2016,2,Colombia,In Store,Single,dark,Evergreen,447.75,24.0,683.25
+2016,2,Colombia,Online,Single,dark,Evergreen,235.5,23.811023622047244,683.25
+2016,2,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,428.25,20.0,600.75
+2016,2,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,172.5,19.894736842105264,600.75
+2016,2,Ethiopia,In Store,Single,medium,Evergreen,391.5,20.0,678.0
+2016,2,Ethiopia,In Store,Single,medium,Seasonal,82.5,24.0,678.0
+2016,2,Ethiopia,Online,Single,medium,Evergreen,204.0,19.670781893004115,678.0
+2016,2,Haiti,Online,Single,dark,Evergreen,0.75,0.0,110.25
+2016,2,Haiti,Online,Single,dark,Seasonal,109.5,20.0,110.25
+2016,2,Kenya,In Store,Single,medium,Seasonal,109.5,24.0,109.5
+2016,2,"Kenya, Colombia",Online,Blend,medium,Evergreen,9.0,24.0,9.0
+2016,2,Mexico,In Store,Single,medium,Seasonal,366.0,20.0,473.25
+2016,2,Mexico,Online,Single,medium,Seasonal,107.25,20.0,473.25
+2016,2,Panama,In Store,Single,light,Seasonal,96.5,68.0,203.5
+2016,2,Panama,Online,Single,light,Seasonal,107.0,68.0,203.5
+2016,2,Papua New Guinea,Online,Single,light,Seasonal,171.75,20.0,171.75
+2016,2,Rwanda,In Store,Single,light,Seasonal,18.0,24.0,387.75
+2016,2,Rwanda,Online,Single,light,Seasonal,369.75,20.603248259860788,387.75
+2016,2,Sumatra,In Store,Single,dark,Seasonal,400.5,20.0,543.0
+2016,2,Sumatra,Online,Single,dark,Seasonal,142.5,20.0,543.0
+2016,3,Brazil,In Store,Single,dark,Seasonal,588.75,20.0,1048.5
+2016,3,Brazil,Online,Single,dark,Evergreen,1.5,38.0,1048.5
+2016,3,Brazil,Online,Single,dark,Seasonal,458.25,20.0,1048.5
+2016,3,Colombia,In Store,Single,dark,Evergreen,486.0,24.0,960.75
+2016,3,Colombia,In Store,Single,light,Seasonal,4.5,29.333333333333332,960.75
+2016,3,Colombia,Online,Single,dark,Evergreen,198.0,24.06926406926407,960.75
+2016,3,Colombia,Online,Single,light,Seasonal,272.25,28.402515723270405,960.75
+2016,3,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,441.0,20.0,627.0
+2016,3,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,186.0,20.0,627.0
+2016,3,Ethiopia,In Store,Single,medium,Evergreen,404.25,20.0,675.0
+2016,3,Ethiopia,Online,Single,medium,Evergreen,270.75,19.935897435897434,675.0
+2016,3,Haiti,Online,Single,dark,Seasonal,16.5,20.0,16.5
+2016,3,"Kenya, Colombia",Online,Blend,medium,Evergreen,9.75,24.0,9.75
+2016,3,Mexico,In Store,Single,medium,Seasonal,7.5,20.0,7.5
+2016,3,Panama,In Store,Single,light,Seasonal,96.0,68.0,176.0
+2016,3,Panama,Online,Single,light,Seasonal,80.0,68.0,176.0
+2016,3,Papua New Guinea,Online,Single,light,Seasonal,33.75,20.0,33.75
+2016,3,Rwanda,In Store,Single,light,Seasonal,25.5,24.0,162.75
+2016,3,Rwanda,Online,Single,light,Seasonal,137.25,20.894117647058824,162.75
+2016,3,Sumatra,In Store,Single,dark,Seasonal,369.75,20.0,486.75
+2016,3,Sumatra,Online,Single,dark,Seasonal,117.0,20.0,486.75
+2016,4,Brazil,In Store,Single,dark,Seasonal,701.25,20.0,1070.25
+2016,4,Brazil,Online,Single,dark,Evergreen,0.75,0.0,1070.25
+2016,4,Brazil,Online,Single,dark,Seasonal,368.25,20.0,1070.25
+2016,4,Colombia,In Store,Single,dark,Evergreen,474.75,24.0,1026.75
+2016,4,Colombia,In Store,Single,light,Seasonal,188.25,29.333333333333243,1026.75
+2016,4,Colombia,Online,Single,dark,Evergreen,165.75,23.9572192513369,1026.75
+2016,4,Colombia,Online,Single,light,Seasonal,198.0,27.890710382513692,1026.75
+2016,4,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,451.5,20.0,632.25
+2016,4,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,180.75,20.0,632.25
+2016,4,Ethiopia,In Store,Single,medium,Evergreen,426.75,20.0,852.0
+2016,4,Ethiopia,Online,Single,medium,Evergreen,270.75,20.119601328903656,852.0
+2016,4,Ethiopia,Online,Single,medium,Seasonal,154.5,24.0,852.0
+2016,4,Haiti,Online,Single,dark,Evergreen,0.75,68.0,0.75
+2016,4,Kenya,Online,Single,medium,Seasonal,0.75,24.0,0.75
+2016,4,"Kenya, Colombia",Online,Blend,medium,Evergreen,9.75,24.0,9.75
+2016,4,Panama,In Store,Single,light,Seasonal,94.5,68.0,160.0
+2016,4,Panama,Online,Single,light,Seasonal,65.5,68.0,160.0
+2016,4,Rwanda,In Store,Single,light,Seasonal,11.25,24.0,151.5
+2016,4,Rwanda,Online,Single,light,Seasonal,140.25,21.265822784810126,151.5
+2016,4,Sumatra,In Store,Single,dark,Seasonal,58.5,20.0,61.5
+2016,4,Sumatra,Online,Single,dark,Seasonal,3.0,20.0,61.5
+2016,5,Brazil,In Store,Single,dark,Seasonal,682.5,20.0,1119.75
+2016,5,Brazil,Online,Single,dark,Evergreen,0.75,0.0,1119.75
+2016,5,Brazil,Online,Single,dark,Seasonal,436.5,20.0,1119.75
+2016,5,Colombia,In Store,Single,dark,Evergreen,488.25,24.0,1119.75
+2016,5,Colombia,In Store,Single,light,Seasonal,252.0,26.93501048218036,1119.75
+2016,5,Colombia,Online,Single,dark,Evergreen,204.0,23.68,1119.75
+2016,5,Colombia,Online,Single,light,Seasonal,175.5,27.36633663366338,1119.75
+2016,5,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,534.75,20.0,726.75
+2016,5,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,192.0,20.0,726.75
+2016,5,Ethiopia,In Store,Single,medium,Evergreen,483.0,20.0,1278.75
+2016,5,Ethiopia,In Store,Single,medium,Seasonal,331.5,24.0,1278.75
+2016,5,Ethiopia,Online,Single,medium,Evergreen,237.0,19.850746268656717,1278.75
+2016,5,Ethiopia,Online,Single,medium,Seasonal,227.25,24.0,1278.75
+2016,5,Kenya,Online,Single,medium,Seasonal,0.75,24.0,0.75
+2016,5,"Kenya, Colombia",Online,Blend,medium,Evergreen,66.0,24.0,66.0
+2016,5,Panama,In Store,Single,light,Seasonal,86.5,68.0,149.0
+2016,5,Panama,Online,Single,light,Seasonal,62.5,83.95744680851064,149.0
+2016,5,Rwanda,In Store,Single,light,Seasonal,7.5,24.0,80.25
+2016,5,Rwanda,Online,Single,light,Seasonal,72.75,21.128205128205128,80.25
+2016,5,Sumatra,In Store,Single,dark,Seasonal,1.5,20.0,1.5
+2016,6,Brazil,In Store,Single,dark,Seasonal,554.25,20.0,881.25
+2016,6,Brazil,Online,Single,dark,Seasonal,327.0,20.0,881.25
+2016,6,Colombia,In Store,Single,dark,Evergreen,410.25,24.0,906.75
+2016,6,Colombia,In Store,Single,light,Seasonal,242.25,26.727076591154365,906.75
+2016,6,Colombia,Online,Single,dark,Evergreen,155.25,24.235294117647058,906.75
+2016,6,Colombia,Online,Single,light,Seasonal,99.0,26.666666666666632,906.75
+2016,6,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,494.25,20.0,647.25
+2016,6,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,153.0,20.0,647.25
+2016,6,Ethiopia,In Store,Single,medium,Evergreen,521.25,20.0,1329.75
+2016,6,Ethiopia,In Store,Single,medium,Seasonal,450.0,24.0,1329.75
+2016,6,Ethiopia,Online,Single,medium,Evergreen,224.25,19.9203187250996,1329.75
+2016,6,Ethiopia,Online,Single,medium,Seasonal,134.25,24.0,1329.75
+2016,6,Guatemala,In Store,Single,medium,Seasonal,24.0,20.0,133.5
+2016,6,Guatemala,Online,Single,medium,Seasonal,109.5,20.0,133.5
+2016,6,"Kenya, Colombia",Online,Blend,medium,Evergreen,73.5,24.0,73.5
+2016,6,Nicaragua,In Store,Single,medium,Seasonal,18.0,20.0,236.25
+2016,6,Nicaragua,Online,Single,medium,Seasonal,218.25,20.0,236.25
+2016,6,Panama,In Store,Single,light,Seasonal,49.0,84.53333333333333,72.0
+2016,6,Panama,Online,Single,light,Seasonal,23.0,88.0,72.0
+2016,6,Rwanda,In Store,Single,light,Seasonal,3.0,24.0,3.0
+2016,7,Brazil,In Store,Single,dark,Seasonal,405.75,20.0,685.5
+2016,7,Brazil,Online,Single,dark,Seasonal,279.75,20.0,685.5
+2016,7,Colombia,In Store,Single,dark,Evergreen,360.0,24.0,620.25
+2016,7,Colombia,In Store,Single,light,Seasonal,30.0,26.735042735042718,620.25
+2016,7,Colombia,Online,Single,dark,Evergreen,147.75,23.849056603773583,620.25
+2016,7,Colombia,Online,Single,light,Seasonal,82.5,26.66666666666665,620.25
+2016,7,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,450.0,20.0,595.5
+2016,7,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,145.5,20.0,595.5
+2016,7,Ethiopia,In Store,Single,medium,Evergreen,422.25,20.0,1161.0
+2016,7,Ethiopia,In Store,Single,medium,Seasonal,397.5,24.0,1161.0
+2016,7,Ethiopia,Online,Single,medium,Evergreen,198.0,20.0,1161.0
+2016,7,Ethiopia,Online,Single,medium,Seasonal,143.25,24.0,1161.0
+2016,7,Guatemala,In Store,Single,medium,Seasonal,483.0,20.0,660.0
+2016,7,Guatemala,Online,Single,medium,Seasonal,177.0,20.0,660.0
+2016,7,Kenya,In Store,Single,medium,Seasonal,57.0,26.512077294686016,191.25
+2016,7,Kenya,Online,Single,medium,Seasonal,134.25,26.66666666666662,191.25
+2016,7,"Kenya, Colombia",Online,Blend,medium,Evergreen,42.75,24.0,42.75
+2016,7,Nicaragua,In Store,Single,medium,Seasonal,428.25,20.0,555.75
+2016,7,Nicaragua,Online,Single,medium,Seasonal,127.5,20.0,555.75
+2016,7,Panama,In Store,Single,light,Seasonal,1.5,88.0,1.5
+2016,8,Brazil,In Store,Single,dark,Seasonal,58.5,20.0,251.25
+2016,8,Brazil,Online,Single,dark,Seasonal,192.75,20.0,251.25
+2016,8,Colombia,In Store,Single,dark,Evergreen,362.25,24.0,609.75
+2016,8,Colombia,In Store,Single,light,Seasonal,25.5,26.745098039215677,609.75
+2016,8,Colombia,Online,Single,dark,Evergreen,168.0,23.868852459016395,609.75
+2016,8,Colombia,Online,Single,light,Seasonal,54.0,26.666666666666682,609.75
+2016,8,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,414.75,20.0,579.0
+2016,8,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,164.25,20.0,579.0
+2016,8,Ethiopia,In Store,Single,medium,Evergreen,343.5,20.0,1161.75
+2016,8,Ethiopia,In Store,Single,medium,Seasonal,450.0,24.0,1161.75
+2016,8,Ethiopia,Online,Single,medium,Evergreen,217.5,20.0,1161.75
+2016,8,Ethiopia,Online,Single,medium,Seasonal,150.75,24.0,1161.75
+2016,8,Guatemala,In Store,Single,medium,Seasonal,450.0,20.0,602.25
+2016,8,Guatemala,Online,Single,medium,Seasonal,152.25,20.0,602.25
+2016,8,Kenya,In Store,Single,medium,Seasonal,392.25,26.564516129032114,556.25
+2016,8,Kenya,Online,Single,medium,Seasonal,164.0,26.66737588652483,556.25
+2016,8,"Kenya, Colombia",Online,Blend,medium,Evergreen,45.75,24.0,45.75
+2016,8,Mexico,In Store,Single,medium,Seasonal,1.5,20.0,1.5
+2016,8,Myanmar,Online,Single,medium,Seasonal,210.75,25.333333333333282,210.75
+2016,8,Nicaragua,In Store,Single,medium,Seasonal,358.5,20.0,511.5
+2016,8,Nicaragua,Online,Single,medium,Seasonal,153.0,20.0,511.5
+2016,9,Brazil,Online,Single,dark,Seasonal,167.25,20.0,167.25
+2016,9,Colombia,In Store,Single,dark,Evergreen,46.5,24.0,204.75
+2016,9,Colombia,In Store,Single,light,Seasonal,1.5,26.666666666666668,204.75
+2016,9,Colombia,Online,Single,dark,Evergreen,156.75,24.0,204.75
+2016,9,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,377.25,20.0,507.0
+2016,9,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,129.75,20.38095238095238,507.0
+2016,9,Ethiopia,In Store,Single,medium,Evergreen,44.25,20.0,825.75
+2016,9,Ethiopia,In Store,Single,medium,Seasonal,429.0,24.0,825.75
+2016,9,Ethiopia,Online,Single,medium,Evergreen,228.75,20.0,825.75
+2016,9,Ethiopia,Online,Single,medium,Seasonal,123.75,24.0,825.75
+2016,9,Guatemala,In Store,Single,medium,Seasonal,450.0,20.0,572.25
+2016,9,Guatemala,Online,Single,medium,Seasonal,122.25,20.0,572.25
+2016,9,Kenya,In Store,Single,medium,Seasonal,363.0,26.655021834061017,461.0
+2016,9,Kenya,Online,Single,medium,Seasonal,98.0,26.667796610169457,461.0
+2016,9,"Kenya, Colombia",Online,Blend,medium,Evergreen,41.25,24.0,41.25
+2016,9,Mexico,In Store,Single,medium,Seasonal,406.5,20.0,549.0
+2016,9,Mexico,Online,Single,medium,Seasonal,142.5,20.0,549.0
+2016,9,Myanmar,In Store,Single,medium,Seasonal,383.25,25.33333333333344,669.75
+2016,9,Myanmar,Online,Single,medium,Seasonal,286.5,25.333333333333258,669.75
+2016,9,Nicaragua,In Store,Single,medium,Seasonal,291.75,20.0,419.25
+2016,9,Nicaragua,Online,Single,medium,Seasonal,127.5,20.0,419.25
+2016,9,Panama,In Store,Single,light,Seasonal,9.0,82.0,65.0
+2016,9,Panama,Online,Single,light,Seasonal,56.0,84.0,65.0
+2016,10,Brazil,Online,Single,dark,Seasonal,168.75,20.0,168.75
+2016,10,Colombia,In Store,Single,dark,Evergreen,1.5,24.0,162.0
+2016,10,Colombia,Online,Single,dark,Evergreen,160.5,24.0,162.0
+2016,10,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,495.75,20.0,658.5
+2016,10,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,162.75,19.892473118279568,658.5
+2016,10,Ethiopia,In Store,Single,medium,Evergreen,2.25,20.0,733.5
+2016,10,Ethiopia,In Store,Single,medium,Seasonal,419.25,24.0,733.5
+2016,10,Ethiopia,Online,Single,medium,Evergreen,189.75,20.0,733.5
+2016,10,Ethiopia,Online,Single,medium,Seasonal,122.25,24.0,733.5
+2016,10,Guatemala,In Store,Single,medium,Seasonal,414.0,20.0,508.5
+2016,10,Guatemala,Online,Single,medium,Seasonal,94.5,20.0,508.5
+2016,10,Haiti,Online,Single,dark,Seasonal,99.0,20.0,99.0
+2016,10,Kenya,In Store,Single,medium,Seasonal,326.25,26.666666666666586,401.75
+2016,10,Kenya,Online,Single,medium,Seasonal,75.5,26.66823529411766,401.75
+2016,10,"Kenya, Colombia",Online,Blend,medium,Evergreen,31.5,24.0,31.5
+2016,10,Mexico,In Store,Single,medium,Seasonal,401.25,20.0,530.5
+2016,10,Mexico,Online,Single,medium,Seasonal,129.25,20.0,530.5
+2016,10,Myanmar,In Store,Single,medium,Seasonal,365.25,25.333333333333442,517.5
+2016,10,Myanmar,Online,Single,medium,Seasonal,152.25,25.33333333333336,517.5
+2016,10,Nicaragua,In Store,Single,medium,Seasonal,259.5,20.0,367.5
+2016,10,Nicaragua,Online,Single,medium,Seasonal,108.0,20.0,367.5
+2016,10,Panama,In Store,Single,light,Seasonal,84.0,83.89542483660131,146.0
+2016,10,Panama,Online,Single,light,Seasonal,62.0,84.0,146.0
+2016,11,Brazil,In Store,Single,dark,Seasonal,1.5,20.0,187.5
+2016,11,Brazil,Online,Single,dark,Evergreen,0.75,60.0,187.5
+2016,11,Brazil,Online,Single,dark,Seasonal,185.25,20.0,187.5
+2016,11,Colombia,In Store,Single,dark,Evergreen,414.0,24.0,617.25
+2016,11,Colombia,Online,Single,dark,Evergreen,203.25,24.0,617.25
+2016,11,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,464.25,20.0,666.75
+2016,11,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,202.5,19.906542056074766,666.75
+2016,11,Ethiopia,In Store,Single,medium,Evergreen,1.5,20.0,753.75
+2016,11,Ethiopia,In Store,Single,medium,Seasonal,414.75,24.0,753.75
+2016,11,Ethiopia,Online,Single,medium,Evergreen,220.5,20.0,753.75
+2016,11,Ethiopia,Online,Single,medium,Seasonal,117.0,24.0,753.75
+2016,11,Guatemala,In Store,Single,medium,Seasonal,325.5,20.0,438.75
+2016,11,Guatemala,Online,Single,medium,Seasonal,113.25,20.0,438.75
+2016,11,Haiti,In Store,Single,dark,Seasonal,306.75,20.0,468.0
+2016,11,Haiti,Online,Single,dark,Seasonal,161.25,20.0,468.0
+2016,11,Kenya,In Store,Single,medium,Seasonal,72.0,26.666666666666668,171.0
+2016,11,Kenya,Online,Single,medium,Seasonal,99.0,26.66666666666664,171.0
+2016,11,"Kenya, Colombia",Online,Blend,medium,Evergreen,43.5,24.0,43.5
+2016,11,Mexico,In Store,Single,medium,Seasonal,387.75,20.0,533.0
+2016,11,Mexico,Online,Single,medium,Seasonal,145.25,20.0,533.0
+2016,11,Myanmar,In Store,Single,medium,Seasonal,86.25,25.33333333333335,216.75
+2016,11,Myanmar,Online,Single,medium,Seasonal,130.5,25.33333333333339,216.75
+2016,11,Nicaragua,In Store,Single,medium,Seasonal,70.5,20.0,201.0
+2016,11,Nicaragua,Online,Single,medium,Seasonal,130.5,20.0,201.0
+2016,11,Panama,In Store,Single,light,Seasonal,77.0,84.0,113.0
+2016,11,Panama,Online,Single,light,Seasonal,36.0,84.0,113.0
+2016,11,Papua New Guinea,In Store,Single,light,Seasonal,300.0,20.0,669.75
+2016,11,Papua New Guinea,Online,Single,light,Seasonal,369.75,20.0,669.75
+2016,12,Brazil,In Store,Single,dark,Seasonal,463.5,20.0,683.25
+2016,12,Brazil,Online,Single,dark,Evergreen,3.75,48.0,683.25
+2016,12,Brazil,Online,Single,dark,Seasonal,216.0,20.0,683.25
+2016,12,Colombia,In Store,Single,dark,Evergreen,581.25,24.0,796.5
+2016,12,Colombia,Online,Single,dark,Evergreen,215.25,24.413793103448278,796.5
+2016,12,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,873.0,20.0,1104.75
+2016,12,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,231.75,22.850202429149796,1104.75
+2016,12,Ethiopia,In Store,Single,medium,Evergreen,407.25,20.0,1320.0
+2016,12,Ethiopia,In Store,Single,medium,Seasonal,513.0,24.0,1320.0
+2016,12,Ethiopia,Online,Single,medium,Evergreen,240.75,20.836501901140686,1320.0
+2016,12,Ethiopia,Online,Single,medium,Seasonal,159.0,24.0,1320.0
+2016,12,Guatemala,In Store,Single,medium,Seasonal,452.25,20.0,592.5
+2016,12,Guatemala,Online,Single,medium,Seasonal,140.25,20.0,592.5
+2016,12,Haiti,In Store,Single,dark,Seasonal,360.75,20.0,459.0
+2016,12,Haiti,Online,Single,dark,Seasonal,98.25,20.0,459.0
+2016,12,Kenya,In Store,Single,medium,Seasonal,111.75,24.629629629629623,314.25
+2016,12,Kenya,Online,Single,medium,Seasonal,202.5,24.045390070921986,314.25
+2016,12,"Kenya, Colombia",Online,Blend,medium,Evergreen,32.25,24.0,32.25
+2016,12,Mexico,In Store,Single,medium,Seasonal,444.0,20.0,579.0
+2016,12,Mexico,Online,Single,medium,Seasonal,135.0,20.0,579.0
+2016,12,Myanmar,In Store,Single,medium,Seasonal,7.5,25.333333333333336,12.75
+2016,12,Myanmar,Online,Single,medium,Seasonal,5.25,25.333333333333332,12.75
+2016,12,Nicaragua,Online,Single,medium,Seasonal,96.0,20.0,96.0
+2016,12,Panama,In Store,Single,light,Seasonal,91.0,84.0,256.0
+2016,12,Panama,Online,Single,light,Seasonal,165.0,92.32234432234432,256.0
+2016,12,Papua New Guinea,In Store,Single,light,Seasonal,491.25,20.0,722.25
+2016,12,Papua New Guinea,Online,Single,light,Seasonal,231.0,20.0,722.25
+2017,1,Brazil,In Store,Single,dark,Seasonal,341.25,20.0,537.0
+2017,1,Brazil,Online,Single,dark,Evergreen,3.75,0.0,537.0
+2017,1,Brazil,Online,Single,dark,Seasonal,192.0,20.0,537.0
+2017,1,Colombia,In Store,Single,dark,Evergreen,22.5,24.0,230.25
+2017,1,Colombia,Online,Single,dark,Evergreen,207.75,23.889908256880734,230.25
+2017,1,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,593.25,20.0,801.0
+2017,1,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,207.75,19.29090909090909,801.0
+2017,1,Ethiopia,In Store,Single,medium,Evergreen,465.75,20.0,772.5
+2017,1,Ethiopia,In Store,Single,medium,Seasonal,52.5,24.0,772.5
+2017,1,Ethiopia,Online,Single,medium,Evergreen,248.25,19.71119133574007,772.5
+2017,1,Ethiopia,Online,Single,medium,Seasonal,6.0,24.0,772.5
+2017,1,Guatemala,In Store,Single,medium,Seasonal,27.0,20.0,191.25
+2017,1,Guatemala,Online,Single,medium,Seasonal,164.25,20.0,191.25
+2017,1,Haiti,In Store,Single,dark,Seasonal,36.0,20.0,37.5
+2017,1,Haiti,Online,Single,dark,Seasonal,1.5,20.0,37.5
+2017,1,Kenya,In Store,Single,medium,Seasonal,463.5,24.3995510662177,597.0
+2017,1,Kenya,Online,Single,medium,Seasonal,133.5,24.0,597.0
+2017,1,"Kenya, Colombia",Online,Blend,medium,Evergreen,35.25,24.0,35.25
+2017,1,Mexico,In Store,Single,medium,Seasonal,448.5,20.0,577.5
+2017,1,Mexico,Online,Single,medium,Seasonal,129.0,20.0,577.5
+2017,1,Myanmar,In Store,Single,medium,Seasonal,0.75,25.333333333333332,0.75
+2017,1,Nicaragua,In Store,Single,medium,Seasonal,0.75,20.0,0.75
+2017,1,Panama,In Store,Single,light,Seasonal,76.0,84.0,147.0
+2017,1,Panama,Online,Single,light,Seasonal,71.0,88.71578947368421,147.0
+2017,1,Papua New Guinea,In Store,Single,light,Seasonal,409.5,20.0,593.25
+2017,1,Papua New Guinea,Online,Single,light,Seasonal,183.75,20.0,593.25
+2017,1,Rwanda,In Store,Single,light,Seasonal,1.5,20.0,122.25
+2017,1,Rwanda,Online,Single,light,Seasonal,120.75,20.0,122.25
+2017,2,Brazil,In Store,Single,dark,Seasonal,68.25,20.0,372.75
+2017,2,Brazil,Online,Single,dark,Evergreen,3.75,12.0,372.75
+2017,2,Brazil,Online,Single,dark,Seasonal,300.75,20.0,372.75
+2017,2,Colombia,In Store,Single,dark,Evergreen,321.0,24.0,480.75
+2017,2,Colombia,Online,Single,dark,Evergreen,159.75,23.86046511627907,480.75
+2017,2,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,453.0,20.0,660.0
+2017,2,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,207.0,18.956521739130434,660.0
+2017,2,Ethiopia,In Store,Single,medium,Evergreen,419.25,20.0,655.5
+2017,2,Ethiopia,Online,Single,medium,Evergreen,236.25,19.68379446640316,655.5
+2017,2,Guatemala,Online,Single,medium,Seasonal,18.75,20.0,18.75
+2017,2,Kenya,In Store,Single,medium,Seasonal,370.5,24.0,492.75
+2017,2,Kenya,Online,Single,medium,Seasonal,122.25,24.0,492.75
+2017,2,"Kenya, Colombia",Online,Blend,medium,Evergreen,32.25,24.0,32.25
+2017,2,Mexico,In Store,Single,medium,Seasonal,279.0,20.0,418.5
+2017,2,Mexico,Online,Single,medium,Seasonal,139.5,20.0,418.5
+2017,2,Panama,In Store,Single,light,Seasonal,55.5,84.0,241.0
+2017,2,Panama,Online,Single,light,Seasonal,185.5,89.27058823529411,241.0
+2017,2,Papua New Guinea,In Store,Single,light,Seasonal,333.75,20.0,606.0
+2017,2,Papua New Guinea,Online,Single,light,Seasonal,272.25,20.0,606.0
+2017,2,Rwanda,In Store,Single,light,Seasonal,254.25,20.0,354.75
+2017,2,Rwanda,Online,Single,light,Seasonal,100.5,20.0,354.75
+2017,2,Sumatra,In Store,Single,dark,Seasonal,441.75,24.0,811.5
+2017,2,Sumatra,Online,Single,dark,Seasonal,369.75,24.0,811.5
+2017,3,Brazil,In Store,Single,dark,Seasonal,28.5,20.0,497.25
+2017,3,Brazil,Online,Single,dark,Evergreen,0.75,0.0,497.25
+2017,3,Brazil,Online,Single,dark,Seasonal,468.0,20.0,497.25
+2017,3,Colombia,In Store,Single,dark,Evergreen,114.0,24.0,431.25
+2017,3,Colombia,In Store,Single,medium,Seasonal,27.75,29.333333333333346,431.25
+2017,3,Colombia,Online,Single,dark,Evergreen,231.75,24.20689655172414,431.25
+2017,3,Colombia,Online,Single,medium,Seasonal,57.75,29.333333333333307,431.25
+2017,3,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,465.0,20.0,687.0
+2017,3,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,222.0,19.662222222222223,687.0
+2017,3,Ethiopia,In Store,Single,medium,Evergreen,497.25,20.0,733.5
+2017,3,Ethiopia,Online,Single,medium,Evergreen,236.25,19.92094861660079,733.5
+2017,3,Kenya,In Store,Single,medium,Seasonal,385.5,24.0,544.5
+2017,3,Kenya,Online,Single,medium,Seasonal,159.0,24.0,544.5
+2017,3,"Kenya, Colombia",Online,Blend,medium,Evergreen,42.0,24.0,42.0
+2017,3,Mexico,In Store,Single,medium,Seasonal,58.5,20.0,58.5
+2017,3,Panama,In Store,Single,light,Seasonal,58.0,84.0,111.5
+2017,3,Panama,Online,Single,light,Seasonal,53.5,88.76595744680851,111.5
+2017,3,Papua New Guinea,In Store,Single,light,Seasonal,369.0,20.0,600.0
+2017,3,Papua New Guinea,Online,Single,light,Seasonal,231.0,20.0,600.0
+2017,3,Rwanda,In Store,Single,light,Seasonal,313.5,20.0,425.25
+2017,3,Rwanda,Online,Single,light,Seasonal,111.75,20.0,425.25
+2017,3,Sumatra,In Store,Single,dark,Seasonal,438.0,24.0,666.75
+2017,3,Sumatra,Online,Single,dark,Seasonal,228.75,24.0,666.75
+2017,4,Brazil,In Store,Single,dark,Seasonal,573.0,20.0,1002.0
+2017,4,Brazil,Online,Single,dark,Evergreen,0.75,0.0,1002.0
+2017,4,Brazil,Online,Single,dark,Seasonal,428.25,20.0,1002.0
+2017,4,Colombia,In Store,Single,dark,Evergreen,11.25,24.0,816.0
+2017,4,Colombia,In Store,Single,medium,Seasonal,444.75,29.33333333333354,816.0
+2017,4,Colombia,Online,Single,dark,Evergreen,190.5,23.886255924170616,816.0
+2017,4,Colombia,Online,Single,medium,Seasonal,169.5,29.333333333333268,816.0
+2017,4,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,513.0,20.0,730.5
+2017,4,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,217.5,19.74074074074074,730.5
+2017,4,Ecuador,In Store,Single,light,Seasonal,3.0,24.0,145.5
+2017,4,Ecuador,Online,Single,light,Seasonal,142.5,24.0,145.5
+2017,4,Ethiopia,In Store,Single,medium,Evergreen,608.25,20.0,915.0
+2017,4,Ethiopia,Online,Single,medium,Evergreen,306.75,19.938080495356036,915.0
+2017,4,Kenya,In Store,Single,medium,Seasonal,21.75,24.0,21.75
+2017,4,"Kenya, Colombia",Online,Blend,medium,Evergreen,48.0,24.0,48.0
+2017,4,Panama,In Store,Single,light,Seasonal,64.5,83.40495867768595,155.0
+2017,4,Panama,Online,Single,light,Seasonal,90.5,79.2,155.0
+2017,4,Papua New Guinea,In Store,Single,light,Seasonal,31.5,20.0,31.5
+2017,4,Rwanda,In Store,Single,light,Seasonal,334.5,20.0,447.75
+2017,4,Rwanda,Online,Single,light,Seasonal,113.25,20.0,447.75
+2017,4,Sumatra,In Store,Single,dark,Seasonal,99.0,24.0,391.5
+2017,4,Sumatra,Online,Single,dark,Seasonal,292.5,24.0,391.5
+2017,5,Brazil,In Store,Single,dark,Seasonal,618.75,20.0,1027.5
+2017,5,Brazil,Online,Single,dark,Seasonal,408.75,20.0,1027.5
+2017,5,Colombia,In Store,Single,medium,Seasonal,449.25,29.333333333333506,757.5
+2017,5,Colombia,Online,Single,dark,Evergreen,198.75,23.889908256880734,757.5
+2017,5,Colombia,Online,Single,medium,Seasonal,109.5,29.333333333333393,757.5
+2017,5,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,567.75,20.0,804.75
+2017,5,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,237.0,19.764705882352942,804.75
+2017,5,Ecuador,In Store,Single,light,Seasonal,2.25,24.0,124.5
+2017,5,Ecuador,Online,Single,light,Seasonal,122.25,24.0,124.5
+2017,5,Ethiopia,In Store,Single,medium,Evergreen,624.0,20.0,921.0
+2017,5,Ethiopia,Online,Single,medium,Evergreen,297.0,19.936305732484076,921.0
+2017,5,Guatemala,Online,Single,medium,Seasonal,182.25,20.0,182.25
+2017,5,"Kenya, Colombia",Online,Blend,medium,Evergreen,28.5,24.0,28.5
+2017,5,Panama,In Store,Single,light,Seasonal,101.0,76.50261780104712,145.0
+2017,5,Panama,Online,Single,light,Seasonal,44.0,78.98507462686567,145.0
+2017,5,Rwanda,In Store,Single,light,Seasonal,361.5,20.0,463.5
+2017,5,Rwanda,Online,Single,light,Seasonal,102.0,20.0,463.5
+2017,5,Sumatra,Online,Single,dark,Seasonal,5.25,24.0,5.25
+2017,6,Brazil,In Store,Single,dark,Seasonal,463.5,20.0,726.0
+2017,6,Brazil,Online,Single,dark,Seasonal,262.5,20.0,726.0
+2017,6,Colombia,In Store,Single,medium,Seasonal,282.0,29.333333333333364,501.0
+2017,6,Colombia,Online,Single,dark,Evergreen,151.5,24.0,501.0
+2017,6,Colombia,Online,Single,medium,Seasonal,67.5,29.333333333333336,501.0
+2017,6,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,469.5,20.0,666.75
+2017,6,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,197.25,19.75257731958763,666.75
+2017,6,Costa Rica,Online,Single,medium,Seasonal,13.5,6.666666666666666,13.5
+2017,6,Ecuador,In Store,Single,light,Seasonal,294.0,24.0,376.5
+2017,6,Ecuador,Online,Single,light,Seasonal,82.5,24.0,376.5
+2017,6,Ethiopia,In Store,Single,medium,Evergreen,530.25,20.0,1404.0
+2017,6,Ethiopia,In Store,Single,medium,Seasonal,446.25,24.0,1404.0
+2017,6,Ethiopia,Online,Single,medium,Evergreen,218.25,20.0,1404.0
+2017,6,Ethiopia,Online,Single,medium,Seasonal,209.25,24.0,1404.0
+2017,6,Guatemala,In Store,Single,medium,Seasonal,28.5,20.0,172.5
+2017,6,Guatemala,Online,Single,medium,Seasonal,144.0,20.0,172.5
+2017,6,Kenya,In Store,Single,medium,Seasonal,20.25,24.0,96.75
+2017,6,Kenya,Online,Single,medium,Seasonal,76.5,24.0,96.75
+2017,6,"Kenya, Colombia",Online,Blend,medium,Evergreen,17.25,24.0,17.25
+2017,6,Panama,In Store,Single,light,Seasonal,65.0,76.46666666666667,86.5
+2017,6,Panama,Online,Single,light,Seasonal,21.5,76.21621621621621,86.5
+2017,6,Rwanda,In Store,Single,light,Seasonal,31.5,20.0,32.25
+2017,6,Rwanda,Online,Single,light,Seasonal,0.75,20.0,32.25
+2017,7,Brazil,In Store,Single,dark,Seasonal,359.25,20.0,608.90625
+2017,7,Brazil,Online,Single,dark,Seasonal,249.65625,20.387096774193548,608.90625
+2017,7,Colombia,In Store,Single,medium,Seasonal,17.25,29.333333333333336,195.0
+2017,7,Colombia,Online,Single,dark,Evergreen,146.25,24.0,195.0
+2017,7,Colombia,Online,Single,medium,Seasonal,31.5,29.33333333333334,195.0
+2017,7,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,453.75,20.0,640.71875
+2017,7,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,186.96875,20.32,640.71875
+2017,7,Costa Rica,Online,Single,medium,Seasonal,282.40625,18.095890410958905,282.40625
+2017,7,Ecuador,In Store,Single,light,Seasonal,237.0,24.0,324.0625
+2017,7,Ecuador,Online,Single,light,Seasonal,87.0625,24.727272727272727,324.0625
+2017,7,Ethiopia,In Store,Single,medium,Evergreen,423.75,20.0,1305.75
+2017,7,Ethiopia,In Store,Single,medium,Seasonal,524.25,24.0,1305.75
+2017,7,Ethiopia,Online,Single,medium,Evergreen,210.75,20.0,1305.75
+2017,7,Ethiopia,Online,Single,medium,Seasonal,147.0,24.0,1305.75
+2017,7,Guatemala,In Store,Single,medium,Seasonal,417.0,20.0,560.34375
+2017,7,Guatemala,Online,Single,medium,Seasonal,143.34375,20.903225806451612,560.34375
+2017,7,Kenya,In Store,Single,medium,Seasonal,310.5,24.0,418.75
+2017,7,Kenya,Online,Single,medium,Seasonal,108.25,24.732394366197184,418.75
+2017,7,"Kenya, Colombia",Online,Blend,medium,Evergreen,14.25,24.0,14.25
+2017,7,Panama,In Store,Single,light,Seasonal,67.0,76.37209302325581,103.0
+2017,7,Panama,Online,Single,light,Seasonal,36.0,76.0,103.0
+2017,7,Rwanda,In Store,Single,light,Seasonal,3.75,20.0,3.75
+2017,8,Brazil,In Store,Single,dark,Seasonal,308.25,20.0,552.625
+2017,8,Brazil,Online,Single,dark,Seasonal,244.375,21.13131313131313,552.625
+2017,8,Colombia,In Store,Single,medium,Seasonal,1.5,29.333333333333332,201.75
+2017,8,Colombia,Online,Single,dark,Evergreen,168.75,24.0,201.75
+2017,8,Colombia,Online,Single,dark,Seasonal,31.5,20.0,201.75
+2017,8,"Colombia, Brazil, Ethiopia ",In Store,Blend,dark,Evergreen,450.75,20.0,651.53125
+2017,8,"Colombia, Brazil, Ethiopia ",Online,Blend,dark,Evergreen,200.78125,20.458333333333332,651.53125
+2017,8,Costa Rica,In Store,Single,medium,Seasonal,318.75,20.0,482.4375
+2017,8,Costa Rica,Online,Single,medium,Seasonal,163.6875,21.45945945945946,482.4375
+2017,8,Ecuador,In Store,Single,light,Seasonal,220.5,24.0,296.84375
+2017,8,Ecuador,Online,Single,light,Seasonal,76.34375,25.530434782608694,296.84375
+2017,8,Ethiopia,In Store,Single,medium,Evergreen,333.75,20.0,1319.25
+2017,8,Ethiopia,In Store,Single,medium,Seasonal,512.25,24.0,1319.25
+2017,8,Ethiopia,Online,Single,medium,Evergreen,310.5,20.0,1319.25
+2017,8,Ethiopia,Online,Single,medium,Seasonal,162.75,24.0,1319.25
+2017,8,Guatemala,In Store,Single,medium,Seasonal,395.25,20.0,534.75
+2017,8,Guatemala,Online,Single,medium,Seasonal,139.5,21.491891891891893,534.75
+2017,8,"Guatemala, Brazil ",Online,Blend,dark,Evergreen,249.0,20.0,249.0
+2017,8,Kenya,In Store,Single,medium,Seasonal,292.5,24.0,378.3125
+2017,8,Kenya,Online,Single,medium,Seasonal,85.8125,25.612403100775193,378.3125
+2017,8,Mexico,Online,Single,medium,Seasonal,2.03125,32.0,2.03125
+2017,8,Nicaragua,Online,Single,medium,Seasonal,102.0,29.333333333333382,102.0
+2017,8,Panama,In Store,Single,light,Seasonal,15.0,76.57142857142857,15.5
+2017,8,Panama,Online,Single,light,Seasonal,0.5,76.0,15.5
+2017,8,Rwanda,In Store,Single,light,Seasonal,0.75,20.0,0.75

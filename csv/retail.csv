@@ -1,0 +1,418 @@
+year,month,origin,blend,roast_level,type,sales,unit_price
+2014,1,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,33.75,0.0
+2014,1,Ethiopia,Single,medium,Seasonal,5.25,0.0
+2014,1,Haiti,Single,dark,Evergreen,3.75,0.26666666666666666
+2014,1,Mexico,Single,medium,Seasonal,7.5,0.0
+2014,1,Panama,Single,light,Seasonal,1.5,0.0
+2014,2,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,83.25,1.3555555555555554
+2014,2,Ethiopia,Single,medium,Seasonal,12.75,0.0
+2014,2,Panama,Single,light,Seasonal,3.75,0.4444444444444444
+2014,3,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,36.25,0.0
+2014,3,Ethiopia,Single,medium,Evergreen,13.5,0.0
+2014,3,Ethiopia,Single,medium,Seasonal,12.75,0.0
+2014,3,Haiti,Single,dark,Evergreen,6.0,0.2222222222222222
+2014,3,Panama,Single,light,Seasonal,22.5,0.0
+2014,3,Papua New Guinea,Single,light,Seasonal,14.25,0.0
+2014,4,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,77.75,15.272727272727273
+2014,4,Ethiopia,Single,medium,Evergreen,67.5,0.0
+2014,4,Ethiopia,Single,medium,Seasonal,4.5,0.0
+2014,4,Haiti,Single,dark,Evergreen,15.0,0.0
+2014,4,Panama,Single,light,Seasonal,42.0,0.0
+2014,5,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,19.5,0.0
+2014,5,Ethiopia,Single,medium,Evergreen,1101.75,2.2244444444444444
+2014,5,Ethiopia,Single,medium,Seasonal,24.0,0.0
+2014,5,Haiti,Single,dark,Evergreen,6.5,0.0
+2014,5,Panama,Single,light,Seasonal,75.75,71.25333333333333
+2014,6,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,23.5,0.0
+2014,6,Ethiopia,Single,medium,Evergreen,0.75,0.0
+2014,6,Ethiopia,Single,medium,Seasonal,26.25,0.0
+2014,6,Haiti,Single,dark,Evergreen,1.5,0.0
+2014,7,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,38.25,0.0
+2014,7,Ethiopia,Single,medium,Seasonal,11.25,0.0
+2014,7,Haiti,Single,dark,Evergreen,0.75,0.0
+2014,7,Mexico,Single,medium,Seasonal,9.0,0.0
+2014,7,Papua New Guinea,Single,light,Seasonal,8.25,0.0
+2014,8,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,30.0,0.0
+2014,8,Ethiopia,Single,medium,Seasonal,18.75,0.0
+2014,8,Haiti,Single,dark,Evergreen,4.5,0.0
+2014,8,Mexico,Single,medium,Seasonal,24.0,1.1111111111111112
+2014,8,Papua New Guinea,Single,light,Seasonal,9.75,0.0
+2014,9,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,25.5,0.0
+2014,9,Ethiopia,Single,medium,Seasonal,15.0,0.0
+2014,9,Haiti,Single,dark,Evergreen,2.25,0.0
+2014,9,Mexico,Single,medium,Seasonal,19.5,0.0
+2014,9,Papua New Guinea,Single,light,Seasonal,10.5,0.0
+2014,10,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,30.5,0.0
+2014,10,Ethiopia,Single,medium,Seasonal,10.5,0.0
+2014,10,Guatemala,Single,medium,Seasonal,9.0,0.0
+2014,10,Haiti,Single,dark,Evergreen,5.25,0.0
+2014,11,Brazil,Single,dark,Seasonal,228.75,0.0
+2014,11,Colombia,Single,dark,Evergreen,181.5,0.0
+2014,11,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,329.25,0.0
+2014,11,Ethiopia,Single,medium,Seasonal,209.25,0.0
+2014,11,Guatemala,Single,medium,Seasonal,166.5,0.0
+2014,11,Haiti,Single,dark,Evergreen,178.5,0.0
+2014,11,Panama,Single,light,Seasonal,12.25,0.0
+2014,11,Zambia,Single,dark,Seasonal,61.5,0.0
+2014,12,Brazil,Single,dark,Seasonal,387.75,0.0
+2014,12,Colombia,Single,dark,Evergreen,1623.5,0.0
+2014,12,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,527.75,0.0
+2014,12,Guatemala,Single,medium,Seasonal,246.0,0.0
+2014,12,Haiti,Single,dark,Evergreen,345.75,0.0
+2014,12,Haiti,Single,dark,Seasonal,34.5,0.022222222222222223
+2014,12,Kenya,Single,medium,Seasonal,217.25,0.0
+2014,12,Panama,Single,light,Seasonal,12.5,0.0
+2014,12,Zambia,Single,dark,Seasonal,260.25,0.0
+2015,1,Brazil,Single,dark,Seasonal,191.0,0.0
+2015,1,Colombia,Single,dark,Evergreen,1018.5,0.0
+2015,1,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,268.5,0.01702127659574468
+2015,1,Guatemala,Single,medium,Seasonal,102.0,0.0
+2015,1,Haiti,Single,dark,Evergreen,134.25,0.0
+2015,1,Haiti,Single,dark,Seasonal,64.5,0.0
+2015,1,Kenya,Single,medium,Seasonal,302.75,0.0
+2015,1,Panama,Single,light,Seasonal,4.0,0.0
+2015,1,Zambia,Single,dark,Seasonal,556.0,0.0
+2015,2,Brazil,Single,dark,Seasonal,217.5,0.0
+2015,2,Colombia,Single,dark,Evergreen,1178.25,0.0
+2015,2,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,349.25,0.0
+2015,2,Ethiopia,Single,medium,Evergreen,2.25,0.0
+2015,2,Guatemala,Single,medium,Seasonal,130.5,0.0
+2015,2,Haiti,Single,dark,Evergreen,196.5,0.0
+2015,2,Haiti,Single,dark,Seasonal,297.75,0.0
+2015,2,Kenya,Single,medium,Seasonal,291.25,0.0
+2015,2,Panama,Single,light,Seasonal,2.5,0.0
+2015,2,Zambia,Single,dark,Seasonal,633.25,0.0
+2015,3,Brazil,Single,dark,Seasonal,329.25,0.0
+2015,3,Colombia,Single,dark,Evergreen,970.25,0.0
+2015,3,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,421.75,0.0
+2015,3,Ethiopia,Single,medium,Evergreen,885.25,0.0
+2015,3,Haiti,Single,dark,Evergreen,261.0,0.2727272727272727
+2015,3,Haiti,Single,dark,Seasonal,23.25,2.25
+2015,3,Kenya,Single,medium,Seasonal,83.25,0.0
+2015,3,Panama,Single,light,Seasonal,19.0,0.0
+2015,3,Zambia,Single,dark,Seasonal,891.75,0.0
+2015,4,Brazil,Single,dark,Seasonal,417.25,0.0
+2015,4,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,428.25,0.0
+2015,4,Ethiopia,Single,medium,Evergreen,1401.5,0.0
+2015,4,Haiti,Single,dark,Evergreen,237.0,0.0
+2015,4,Kenya,Single,medium,Seasonal,2.25,0.0
+2015,4,Panama,Single,light,Seasonal,47.5,0.0
+2015,4,Zambia,Single,dark,Seasonal,979.0,0.0
+2015,5,Brazil,Single,dark,Seasonal,315.5,0.0
+2015,5,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,342.25,0.0
+2015,5,Ethiopia,Single,medium,Evergreen,1343.5,0.0
+2015,5,Ethiopia,Single,medium,Seasonal,3.0,0.0
+2015,5,Panama,Single,light,Seasonal,50.5,0.0
+2015,5,Yemen,Single,medium,Seasonal,2.25,0.0
+2015,5,Zambia,Single,dark,Seasonal,501.75,0.0
+2015,6,Brazil,Single,dark,Seasonal,63.0,0.0
+2015,6,Colombia,Single,dark,Evergreen,210.0,0.0
+2015,6,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,358.25,0.0
+2015,6,Ethiopia,Single,medium,Evergreen,1330.5,0.0
+2015,6,Ethiopia,Single,medium,Seasonal,357.0,0.0
+2015,6,Haiti,Single,dark,Seasonal,3.75,0.0
+2015,6,"Kenya, Colombia",Blend,medium,Evergreen,27.75,0.0
+2015,6,Panama,Single,light,Seasonal,36.0,0.0
+2015,6,Yemen,Single,medium,Seasonal,183.75,0.0
+2015,6,Zambia,Single,dark,Seasonal,198.0,0.0
+2015,7,Brazil,Single,dark,Seasonal,6.5,0.0
+2015,7,Colombia,Single,dark,Evergreen,378.75,0.0
+2015,7,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,429.25,0.0
+2015,7,Ethiopia,Single,medium,Evergreen,1405.5,0.0
+2015,7,Ethiopia,Single,medium,Seasonal,504.5,0.0
+2015,7,Haiti,Single,dark,Seasonal,5.25,0.0
+2015,7,"Kenya, Colombia",Blend,medium,Evergreen,24.75,0.0
+2015,7,Panama,Single,light,Seasonal,28.5,0.0
+2015,7,Yemen,Single,medium,Seasonal,97.5,0.0
+2015,8,Brazil,Single,dark,Seasonal,17.0,0.0
+2015,8,Colombia,Single,dark,Evergreen,347.25,0.0
+2015,8,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,403.0,0.0
+2015,8,Ethiopia,Single,medium,Evergreen,1215.5,0.0
+2015,8,Ethiopia,Single,medium,Seasonal,826.0,0.21739130434782608
+2015,8,Haiti,Single,dark,Seasonal,345.75,0.0
+2015,8,"Kenya, Colombia",Blend,medium,Evergreen,21.5,0.0
+2015,8,Mexico,Single,medium,Seasonal,193.5,0.0
+2015,8,Panama,Single,light,Seasonal,55.5,0.6666666666666666
+2015,8,Yemen,Single,medium,Seasonal,105.0,0.0
+2015,9,Brazil,Single,dark,Seasonal,3.75,0.0
+2015,9,Colombia,Single,dark,Evergreen,1751.5,0.0
+2015,9,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,480.75,0.0
+2015,9,Ethiopia,Single,medium,Evergreen,349.75,0.0
+2015,9,Ethiopia,Single,medium,Seasonal,907.75,0.0
+2015,9,Haiti,Single,dark,Seasonal,376.5,0.0
+2015,9,"Kenya, Colombia",Blend,medium,Evergreen,15.75,0.0
+2015,9,Mexico,Single,medium,Seasonal,666.5,0.0
+2015,9,Panama,Single,light,Seasonal,39.5,0.0
+2015,9,Yemen,Single,medium,Seasonal,0.75,0.0
+2015,9,Zambia,Single,dark,Seasonal,0.75,0.0
+2015,10,Brazil,Single,dark,Seasonal,2.25,0.0
+2015,10,Colombia,Single,dark,Evergreen,1850.5,0.0
+2015,10,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,476.5,0.0
+2015,10,Ethiopia,Single,medium,Evergreen,372.0,0.0
+2015,10,Ethiopia,Single,medium,Seasonal,902.75,0.0
+2015,10,Haiti,Single,dark,Seasonal,324.5,0.0
+2015,10,"Kenya, Colombia",Blend,medium,Evergreen,10.5,0.0
+2015,10,Mexico,Single,medium,Seasonal,588.25,0.0
+2015,10,Panama,Single,light,Seasonal,0.5,0.0
+2015,10,Zambia,Single,dark,Seasonal,1.5,0.0
+2015,11,Brazil,Single,dark,Seasonal,5.25,0.0
+2015,11,Colombia,Single,dark,Evergreen,2079.25,0.0
+2015,11,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,533.75,0.0
+2015,11,Ethiopia,Single,medium,Evergreen,357.75,0.0
+2015,11,Ethiopia,Single,medium,Seasonal,955.5,0.0
+2015,11,Haiti,Single,dark,Seasonal,48.75,0.0
+2015,11,"Kenya, Colombia",Blend,medium,Evergreen,8.25,0.0
+2015,11,Mexico,Single,medium,Seasonal,477.75,0.0
+2015,11,Panama,Single,light,Seasonal,129.0,0.0
+2015,11,Papua New Guinea,Single,light,Seasonal,272.25,0.3668148148148148
+2015,12,Brazil,Single,dark,Seasonal,5.25,0.0
+2015,12,Colombia,Single,dark,Evergreen,2495.0,0.0
+2015,12,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,1015.0,0.0
+2015,12,Ethiopia,Single,medium,Evergreen,654.75,0.0
+2015,12,Ethiopia,Single,medium,Seasonal,782.25,0.0
+2015,12,Haiti,Single,dark,Seasonal,0.75,0.0
+2015,12,Kenya,Single,medium,Seasonal,548.25,0.0
+2015,12,"Kenya, Colombia",Blend,medium,Evergreen,6.0,0.0
+2015,12,Mexico,Single,medium,Seasonal,710.25,0.0
+2015,12,Panama,Single,light,Seasonal,145.0,0.0
+2015,12,Papua New Guinea,Single,light,Seasonal,3.75,0.0
+2015,12,Sumatra,Single,dark,Seasonal,1477.75,0.06802721088435375
+2016,1,Brazil,Single,dark,Seasonal,3.75,0.0
+2016,1,Colombia,Single,dark,Evergreen,447.25,0.18518518518518517
+2016,1,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,483.75,0.0
+2016,1,Ethiopia,Single,medium,Evergreen,390.0,0.0
+2016,1,Ethiopia,Single,medium,Seasonal,389.25,0.0
+2016,1,Kenya,Single,medium,Seasonal,32.0,0.0
+2016,1,"Kenya, Colombia",Blend,medium,Evergreen,4.5,0.0
+2016,1,Mexico,Single,medium,Seasonal,1902.25,0.0
+2016,1,Panama,Single,light,Seasonal,65.5,0.0
+2016,1,Papua New Guinea,Single,light,Seasonal,2.25,0.0
+2016,1,Rwanda,Single,light,Seasonal,140.0,0.0
+2016,1,Sumatra,Single,dark,Seasonal,909.0,0.0
+2016,2,Brazil,Single,dark,Seasonal,17.5,0.0
+2016,2,Colombia,Single,dark,Evergreen,469.5,0.0
+2016,2,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,451.0,0.14689265536723162
+2016,2,Ethiopia,Single,medium,Evergreen,453.0,0.0
+2016,2,Ethiopia,Single,medium,Seasonal,18.0,0.0
+2016,2,Kenya,Single,medium,Seasonal,135.0,0.0
+2016,2,"Kenya, Colombia",Blend,medium,Evergreen,4.5,0.0
+2016,2,Mexico,Single,medium,Seasonal,1358.0,0.0
+2016,2,Panama,Single,light,Seasonal,142.5,0.0
+2016,2,Papua New Guinea,Single,light,Seasonal,0.75,0.0
+2016,2,Rwanda,Single,light,Seasonal,1163.0,0.0
+2016,2,Sumatra,Single,dark,Seasonal,906.75,0.0
+2016,3,Brazil,Single,dark,Seasonal,1069.5,0.0
+2016,3,Colombia,Single,dark,Evergreen,671.25,0.2908771929824561
+2016,3,Colombia,Single,light,Seasonal,142.5,0.0
+2016,3,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,636.75,0.1387719298245614
+2016,3,Ethiopia,Single,medium,Evergreen,549.0,0.1535185185185185
+2016,3,"Kenya, Colombia",Blend,medium,Evergreen,9.0,0.0
+2016,3,Panama,Single,light,Seasonal,149.0,0.0
+2016,3,Papua New Guinea,Single,light,Seasonal,0.75,0.0
+2016,3,Rwanda,Single,light,Seasonal,2504.25,0.0
+2016,3,Sumatra,Single,dark,Seasonal,752.5,0.0
+2016,4,Brazil,Single,dark,Seasonal,1560.0,0.0
+2016,4,Colombia,Single,dark,Evergreen,558.0,1.3340229885057469
+2016,4,Colombia,Single,light,Seasonal,129.75,0.0
+2016,4,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,483.75,1.1505454545454545
+2016,4,Ethiopia,Single,medium,Evergreen,405.0,0.9528735632183908
+2016,4,Ethiopia,Single,medium,Seasonal,17.75,0.0
+2016,4,"Kenya, Colombia",Blend,medium,Evergreen,9.75,0.0
+2016,4,Panama,Single,light,Seasonal,110.0,0.0
+2016,4,Rwanda,Single,light,Seasonal,2006.5,0.0
+2016,4,Sumatra,Single,dark,Seasonal,0.75,0.0
+2016,5,Brazil,Single,dark,Seasonal,1388.5,0.0
+2016,5,Colombia,Single,dark,Evergreen,547.5,1.0897652582159623
+2016,5,Colombia,Single,light,Seasonal,371.25,0.0
+2016,5,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,611.25,0.15285024154589372
+2016,5,Ethiopia,Single,medium,Evergreen,1080.0,0.2547463768115942
+2016,5,Ethiopia,Single,medium,Seasonal,1623.5,0.0
+2016,5,"Kenya, Colombia",Blend,medium,Evergreen,0.75,0.0
+2016,5,Panama,Single,light,Seasonal,78.0,0.0
+2016,5,Rwanda,Single,light,Seasonal,46.5,0.0
+2016,6,Brazil,Single,dark,Seasonal,610.25,0.0
+2016,6,Colombia,Single,dark,Evergreen,483.75,0.1535185185185185
+2016,6,Colombia,Single,light,Seasonal,252.75,0.0
+2016,6,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,626.0,0.4275675675675676
+2016,6,Ethiopia,Single,medium,Evergreen,1676.5,0.1390356394129979
+2016,6,Ethiopia,Single,medium,Seasonal,2680.5,0.0
+2016,6,Guatemala,Single,medium,Seasonal,178.5,0.0
+2016,6,"Kenya, Colombia",Blend,medium,Evergreen,9.75,2.0
+2016,6,Nicaragua,Single,medium,Seasonal,189.0,0.0
+2016,6,Panama,Single,light,Seasonal,69.0,0.0
+2016,7,Brazil,Single,dark,Seasonal,306.0,0.0
+2016,7,Colombia,Single,dark,Evergreen,275.75,0.0
+2016,7,Colombia,Single,light,Seasonal,6.0,0.0
+2016,7,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,438.0,0.0
+2016,7,Ethiopia,Single,medium,Evergreen,982.0,0.0
+2016,7,Ethiopia,Single,medium,Seasonal,1817.25,0.0
+2016,7,Guatemala,Single,medium,Seasonal,506.25,0.0
+2016,7,Kenya,Single,medium,Seasonal,119.25,0.0
+2016,7,"Kenya, Colombia",Blend,medium,Evergreen,0.75,0.0
+2016,7,Nicaragua,Single,medium,Seasonal,447.0,0.0
+2016,8,Brazil,Single,dark,Seasonal,27.0,0.0
+2016,8,Colombia,Single,dark,Evergreen,385.5,0.0
+2016,8,Colombia,Single,light,Seasonal,64.5,0.0
+2016,8,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,552.0,0.0
+2016,8,Ethiopia,Single,medium,Evergreen,998.75,0.0
+2016,8,Ethiopia,Single,medium,Seasonal,2116.25,0.0
+2016,8,Guatemala,Single,medium,Seasonal,671.5,0.0
+2016,8,Kenya,Single,medium,Seasonal,540.75,0.0
+2016,8,"Kenya, Colombia",Blend,medium,Evergreen,3.75,0.0
+2016,8,Mexico,Single,medium,Seasonal,476.0,0.0
+2016,8,Myanmar,Single,medium,Seasonal,197.5,1.0555555555555556
+2016,8,Nicaragua,Single,medium,Seasonal,498.0,0.22323232323232325
+2016,9,Brazil,Single,dark,Seasonal,6.0,0.0
+2016,9,Colombia,Single,dark,Evergreen,9.0,0.0
+2016,9,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,564.75,0.0
+2016,9,Ethiopia,Single,medium,Evergreen,12.75,0.0
+2016,9,Ethiopia,Single,medium,Seasonal,624.75,0.0
+2016,9,Guatemala,Single,medium,Seasonal,1453.75,0.0
+2016,9,Kenya,Single,medium,Seasonal,509.25,0.0
+2016,9,"Kenya, Colombia",Blend,medium,Evergreen,3.75,0.0
+2016,9,Mexico,Single,medium,Seasonal,2480.0,0.0
+2016,9,Myanmar,Single,medium,Seasonal,510.75,0.0
+2016,9,Nicaragua,Single,medium,Seasonal,473.0,0.4073099415204678
+2016,9,Panama,Single,light,Seasonal,79.0,0.0
+2016,10,Brazil,Single,dark,Seasonal,3.0,0.0
+2016,10,Colombia,Single,dark,Evergreen,23.25,0.0
+2016,10,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,502.0,0.0
+2016,10,Ethiopia,Single,medium,Evergreen,16.5,0.0
+2016,10,Ethiopia,Single,medium,Seasonal,439.5,0.0
+2016,10,Guatemala,Single,medium,Seasonal,1209.25,0.0
+2016,10,Haiti,Single,dark,Seasonal,5.25,0.0
+2016,10,Kenya,Single,medium,Seasonal,346.5,0.0
+2016,10,"Kenya, Colombia",Blend,medium,Evergreen,4.5,0.0
+2016,10,Mexico,Single,medium,Seasonal,2729.25,0.0
+2016,10,Myanmar,Single,medium,Seasonal,378.75,0.0
+2016,10,Nicaragua,Single,medium,Seasonal,299.25,0.0
+2016,10,Panama,Single,light,Seasonal,100.0,0.5744144144144144
+2016,10,Papua New Guinea,Single,light,Seasonal,3.0,0.0
+2016,11,Brazil,Single,dark,Seasonal,148.5,0.42376811594202896
+2016,11,Colombia,Single,dark,Evergreen,783.5,0.0
+2016,11,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,730.25,0.0
+2016,11,Ethiopia,Single,medium,Evergreen,137.25,0.0
+2016,11,Ethiopia,Single,medium,Seasonal,576.0,0.0
+2016,11,Guatemala,Single,medium,Seasonal,1219.25,0.0
+2016,11,Haiti,Single,dark,Seasonal,634.5,0.0
+2016,11,Kenya,Single,medium,Seasonal,4.5,0.0
+2016,11,"Kenya, Colombia",Blend,medium,Evergreen,3.0,0.0
+2016,11,Mexico,Single,medium,Seasonal,3155.25,0.0
+2016,11,Myanmar,Single,medium,Seasonal,18.75,0.0
+2016,11,Nicaragua,Single,medium,Seasonal,3.75,0.0
+2016,11,Panama,Single,light,Seasonal,132.0,0.0
+2016,11,Papua New Guinea,Single,light,Seasonal,1029.75,0.16183006535947714
+2016,12,Brazil,Single,dark,Seasonal,516.75,0.234859437751004
+2016,12,Colombia,Single,dark,Evergreen,455.25,0.0
+2016,12,Colombia,Single,light,Seasonal,3.0,0.0
+2016,12,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,909.0,0.44879432624113474
+2016,12,Ethiopia,Single,medium,Evergreen,504.0,0.12852713178294572
+2016,12,Ethiopia,Single,medium,Seasonal,443.25,0.0
+2016,12,Guatemala,Single,medium,Seasonal,381.75,0.0
+2016,12,Haiti,Single,dark,Seasonal,341.25,0.0
+2016,12,Kenya,Single,medium,Seasonal,647.75,0.020833333333333332
+2016,12,"Kenya, Colombia",Blend,medium,Evergreen,4.5,0.0
+2016,12,Mexico,Single,medium,Seasonal,539.25,0.013888888888888888
+2016,12,Nicaragua,Single,medium,Seasonal,3.75,0.0
+2016,12,Panama,Single,light,Seasonal,152.5,0.0
+2016,12,Papua New Guinea,Single,light,Seasonal,3240.5,0.05416195856873823
+2017,1,Brazil,Single,dark,Seasonal,399.5,0.0
+2017,1,Colombia,Single,dark,Evergreen,90.75,0.0
+2017,1,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,755.75,0.1023948220064725
+2017,1,Ethiopia,Single,medium,Evergreen,501.75,0.0
+2017,1,Guatemala,Single,medium,Seasonal,3.75,0.0
+2017,1,Kenya,Single,medium,Seasonal,1375.5,0.007751937984496124
+2017,1,"Kenya, Colombia",Blend,medium,Evergreen,3.0,0.0
+2017,1,Mexico,Single,medium,Seasonal,514.5,0.013333333333333332
+2017,1,Panama,Single,light,Seasonal,117.5,0.0
+2017,1,Papua New Guinea,Single,light,Seasonal,2925.25,0.0
+2017,1,Rwanda,Single,light,Seasonal,169.5,0.0
+2017,1,Sumatra,Single,dark,Seasonal,209.5,0.0
+2017,2,Brazil,Single,dark,Seasonal,162.0,0.0
+2017,2,Colombia,Single,dark,Evergreen,411.0,0.0
+2017,2,Colombia,Single,light,Seasonal,9.0,0.0
+2017,2,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,481.5,0.0
+2017,2,Ethiopia,Single,medium,Evergreen,595.5,0.0
+2017,2,Kenya,Single,medium,Seasonal,443.25,0.0
+2017,2,"Kenya, Colombia",Blend,medium,Evergreen,3.75,0.0
+2017,2,Mexico,Single,medium,Seasonal,275.25,0.0
+2017,2,Panama,Single,light,Seasonal,169.0,0.0
+2017,2,Papua New Guinea,Single,light,Seasonal,2844.75,0.0
+2017,2,Rwanda,Single,light,Seasonal,547.0,0.0
+2017,2,Sumatra,Single,dark,Seasonal,1602.0,0.0
+2017,3,Brazil,Single,dark,Seasonal,591.0,0.0025974025974025974
+2017,3,Colombia,Single,dark,Evergreen,71.25,0.0
+2017,3,Colombia,Single,medium,Seasonal,215.25,0.0
+2017,3,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,548.5,0.00202020202020202
+2017,3,Ethiopia,Single,medium,Evergreen,564.0,0.0
+2017,3,Guatemala,Single,medium,Seasonal,1.5,0.0
+2017,3,Kenya,Single,medium,Seasonal,327.75,0.0
+2017,3,"Kenya, Colombia",Blend,medium,Evergreen,16.0,0.028571428571428574
+2017,3,Mexico,Single,medium,Seasonal,27.0,0.0
+2017,3,Panama,Single,light,Seasonal,87.5,0.0
+2017,3,Papua New Guinea,Single,light,Seasonal,298.5,0.0
+2017,3,Rwanda,Single,light,Seasonal,3575.0,0.007168458781362007
+2017,3,Sumatra,Single,dark,Seasonal,1127.25,0.0
+2017,4,Brazil,Single,dark,Seasonal,1574.0,0.0
+2017,4,Colombia,Single,dark,Evergreen,15.75,0.0
+2017,4,Colombia,Single,medium,Seasonal,395.25,0.0
+2017,4,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,487.5,0.0
+2017,4,Ecuador,Single,light,Seasonal,9.75,0.0
+2017,4,Ethiopia,Single,medium,Evergreen,566.25,0.0
+2017,4,"Kenya, Colombia",Blend,medium,Evergreen,3.0,0.0
+2017,4,Panama,Single,light,Seasonal,110.0,0.0
+2017,4,Rwanda,Single,light,Seasonal,2813.5,0.0
+2017,4,Sumatra,Single,dark,Seasonal,12.0,0.0
+2017,5,Brazil,Single,dark,Seasonal,1772.0,0.0
+2017,5,Colombia,Single,dark,Evergreen,18.0,0.0
+2017,5,Colombia,Single,medium,Seasonal,572.25,0.0
+2017,5,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,722.25,0.0
+2017,5,Ecuador,Single,light,Seasonal,153.75,0.0
+2017,5,Ethiopia,Single,medium,Evergreen,780.0,0.07246376811594203
+2017,5,Ethiopia,Single,medium,Seasonal,952.25,0.0
+2017,5,Guatemala,Single,medium,Seasonal,18.0,0.0
+2017,5,"Kenya, Colombia",Blend,medium,Evergreen,3.0,0.0
+2017,5,Panama,Single,light,Seasonal,128.0,0.0
+2017,5,Rwanda,Single,light,Seasonal,2813.5,0.0
+2017,5,Sumatra,Single,dark,Seasonal,0.75,0.0
+2017,6,Brazil,Single,dark,Seasonal,1027.25,0.5738675213675215
+2017,6,Colombia,Single,dark,Evergreen,13.5,0.0
+2017,6,Colombia,Single,medium,Seasonal,212.25,0.0
+2017,6,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,450.0,0.0
+2017,6,Ecuador,Single,light,Seasonal,308.25,0.0
+2017,6,Ethiopia,Single,medium,Evergreen,485.25,0.0
+2017,6,Ethiopia,Single,medium,Seasonal,3058.25,0.0
+2017,6,Guatemala,Single,medium,Seasonal,171.0,0.0
+2017,6,Kenya,Single,medium,Seasonal,179.25,0.6120634920634921
+2017,6,Panama,Single,light,Seasonal,67.5,0.0
+2017,6,Rwanda,Single,light,Seasonal,10.75,0.0
+2017,7,Brazil,Single,dark,Seasonal,358.5,0.5588014981273408
+2017,7,Colombia,Single,dark,Evergreen,7.5,0.0
+2017,7,Colombia,Single,dark,Seasonal,11.25,0.0
+2017,7,Colombia,Single,medium,Seasonal,3.0,0.0
+2017,7,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,546.25,0.0
+2017,7,Costa Rica,Single,medium,Seasonal,14.25,0.0
+2017,7,Ecuador,Single,light,Seasonal,258.75,0.0
+2017,7,Ethiopia,Single,dark,Seasonal,1110.0,0.0
+2017,7,Ethiopia,Single,medium,Evergreen,432.0,0.0
+2017,7,Ethiopia,Single,medium,Seasonal,2801.75,0.0
+2017,7,Guatemala,Single,medium,Seasonal,641.0,0.0
+2017,7,"Guatemala, Brazil ",Blend,dark,Evergreen,15.0,0.0
+2017,7,Kenya,Single,medium,Seasonal,390.0,1.894175438596491
+2017,7,Panama,Single,light,Seasonal,86.5,0.0
+2017,7,Rwanda,Single,light,Seasonal,-20.0,0.0
+2017,8,Brazil,Single,dark,Seasonal,347.25,0.0
+2017,8,Colombia,Single,dark,Evergreen,5.25,0.0
+2017,8,Colombia,Single,dark,Seasonal,6.75,0.0
+2017,8,"Colombia, Brazil, Ethiopia ",Blend,dark,Evergreen,491.75,0.0
+2017,8,Costa Rica,Single,medium,Seasonal,550.75,0.0
+2017,8,Ecuador,Single,light,Seasonal,266.25,0.0
+2017,8,Ethiopia,Single,dark,Seasonal,890.0,0.0
+2017,8,Ethiopia,Single,medium,Evergreen,353.0,0.0
+2017,8,Ethiopia,Single,medium,Seasonal,563.0,0.0
+2017,8,Guatemala,Single,medium,Seasonal,3450.25,0.0
+2017,8,"Guatemala, Brazil ",Blend,dark,Evergreen,8.25,0.0
+2017,8,Kenya,Single,medium,Seasonal,320.25,0.0
+2017,8,Mexico,Single,medium,Seasonal,7.5,0.0
+2017,8,Nicaragua,Single,medium,Seasonal,3.0,0.0
+2017,8,Panama,Single,light,Seasonal,7.0,0.0
