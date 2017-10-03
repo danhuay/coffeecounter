@@ -104,7 +104,7 @@ d3.csv("csv/b2c.csv", function (err, data){
     
     
     bubbleChart
-        .width(800)
+        .width(600)
         .height(400)
         .transitionDuration(1500)
         .margins({top: 10, right: 50, bottom: 40, left: 50})
@@ -204,14 +204,19 @@ d3.csv("csv/b2c.csv", function (err, data){
     
     originHeatMapChart
         .width(12 * 50 + 80)
-        .height(20 * 4 + 40)
+        .height(50 * 3 + 40)
         .dimension(runDim)
         .group(runGroup)
         .keyAccessor(function(d) { return +d.key[0]; })
         .valueAccessor(function(d) { return +d.key[1]; })
         .colorAccessor(function(d) { return +d.value; })
         .colors(["#ffffd9","#edf8b1","#c7e9b4","#7fcdbb","#41b6c4","#1d91c0","#225ea8","#253494","#081d58"])
-        .calculateColorDomain();
+        .calculateColorDomain()
+        .title(function (p) {
+            return p.key
+                    + "\n"
+                    + "Sales: " + numberFormat(p.value)
+        });
     
     originHeatMapChart.xBorderRadius(0);
     originHeatMapChart.yBorderRadius(0);

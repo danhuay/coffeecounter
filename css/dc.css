@@ -43,7 +43,7 @@ div.dc-chart {
 .dc-chart .axis path, .dc-chart .axis line {
   fill: none;
   stroke: #fff;
-  shape-rendering: crispEdges; }
+  shape-rendering: crispEdges;}
 
 .dc-chart .axis text {
   font: 10px sans-serif;
@@ -97,11 +97,12 @@ div.dc-chart {
   fill-opacity: 0.8;
   cursor: pointer; }
   .dc-chart g.row rect:hover {
-    fill-opacity: 0.6; }
+    fill-opacity: 0.6;
+  }
 
 .dc-chart g.row text {
   fill: white;
-  font-size: 12px;
+  font-size: 16px;
   cursor: pointer; }
 
 .dc-chart g.dc-tooltip path {
@@ -212,6 +213,6 @@ div.dc-chart {
 .dc-hard .number-display {
   float: none; }
 
-#bubbleChart .node { font-size: 12px; fill: #fee;}
-#bubbleChart .x-axis-label {fill: white;}
-#bubbleChart .y-axis-label {fill: white;}
+#bubbleChart .node { font-size: 16px; fill: #fee;}
+#bubbleChart .x-axis-label {fill: white; font-size: 16px;}
+#bubbleChart .y-axis-label {fill: white; font-size: 16px;}
